@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Getting and Cleaning Data: Course Project
 
 =========================================
@@ -62,3 +63,7 @@ The CodeBook.md file explains the transformations performed and the resulting da
 
 
 
+=======
+# Courseproject
+this repo contains getting and cleaning data course project work, including 1. run_analysis.R code; 2, CodeBook.md; 3, README.md.
+>>>>>>> fdc9d342c01c87419c2b4f04c4904634abb3daf5
